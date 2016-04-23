@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Blocitoff
+title: Yappit
 thumbnail-path: "img/blocitoff.png"
-short-description: Build a self-destructing to-do list application.
+short-description: A Reddit replica for those who enjoy yapping.
 
 ---
 

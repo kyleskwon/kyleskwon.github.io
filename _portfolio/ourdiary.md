@@ -1,13 +1,13 @@
 ---
 layout: post
-title: BlocFlix
-thumbnail-path: "img/blocflix.png"
-short-description: BlocFlix is a Netflix replica for finding the best movies and watching them online.
+title: OurDiary
+thumbnail-path: "img/blocipedia.png"
+short-description: Built to help couples remember the past and plan for the future.
 
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/blocflix.png)
+![]({{ site.baseurl }}/img/blocipedia.png)
 
 ## Explanation
 
