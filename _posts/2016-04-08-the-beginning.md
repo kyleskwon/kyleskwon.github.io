@@ -4,7 +4,7 @@ title: The Beginning
 # feature-img: ""
 ---
 
-<h2>How did I get started?</h2>
+<h2>How did I get started as a developer?</h2>
 
 I'm often faced with this question, and these are the 3 resources that allowed me to dive into coding.
 
