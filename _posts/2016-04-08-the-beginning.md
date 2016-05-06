@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Beginning
-# feature-img: ""
+// feature-img: ""
 ---
 
 <h2>How did I get started as a developer?</h2>
