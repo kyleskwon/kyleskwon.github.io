@@ -6,4 +6,4 @@ feature-img: "img/color.png"
 hide: true
 ---
 
-Thank you. I will reach out to you as soon as possible.
+<h3 class="center">I will reach out to you soon.</h3>
