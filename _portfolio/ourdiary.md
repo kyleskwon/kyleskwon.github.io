@@ -6,10 +6,14 @@ short-description: Built to help couples remember the past and plan for the futu
 
 ---
 
-{:.center}
+OurDiary helps couples remember an array of experiences, make definite plans for the short term, and dream about your bucket list. By walking down memory lane together, partners can get nostalgic and also excited for new adventures to come!
+
+<br>
+
+{:.center-image}
 ![]({{ site.baseurl }}/img/ourdiary.jpg)
 
-OurDiary helps couples remember an array of experiences, make definite plans for the short term, and dream about your bucket list. By walking down memory lane together, partners can get nostalgic and also excited for new adventures to come!
+<br>
 
 {:.center} 
 ## Context

@@ -5,6 +5,10 @@
     text-align: center;
 }
 
+.center-image {
+    box-shadow: 5px 5px 5px #888888;
+}
+
 // External
 @import 'external/reset';
 @import 'external/solarized-dark';
