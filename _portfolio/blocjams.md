@@ -10,10 +10,10 @@ short-description: A Spotify replica for streaming music online.
 BlocJams is an online music streaming service.
 
 {:.center-image}
-![]({{ site.baseurl }}/img/blocjams1.JPG)
+![]({{ site.baseurl }}/img/blocjams1.jpg)
 
 {:.center-image}
-![]({{ site.baseurl }}/img/blocjams2.JPG)
+![]({{ site.baseurl }}/img/blocjams2.jpg)
 
 <br>
 
@@ -47,10 +47,10 @@ Streaming music instantly.
 
 
 {:.center-image}
-![]({{ site.baseurl }}/img/blocjams3.JPG)
+![]({{ site.baseurl }}/img/blocjams3.jpg)
 
 {:.center-image}
-![]({{ site.baseurl }}/img/blocjams4.JPG)
+![]({{ site.baseurl }}/img/blocjams4.jpg)
 
 
 
