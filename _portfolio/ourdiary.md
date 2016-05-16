@@ -11,7 +11,7 @@ OurDiary helps couples remember an array of experiences, make definite plans for
 <br>
 
 {:.center-image}
-![]({{ site.baseurl }}/img/ourdiary.jpg)
+![]({{ site.baseurl }}/img/ourdiary.JPG)
 
 <br>
 
