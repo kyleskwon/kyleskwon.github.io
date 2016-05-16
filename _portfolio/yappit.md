@@ -35,3 +35,18 @@ OurDiary is a Ruby on Rails web application built with the Ruby gems, Bootstrap,
 > - Rspec for testing
 > - Devise for users
 > - Pundit for user roles
+
+{:.center-image}
+![]({{ site.baseurl }}/img/yappit1.JPG)
+
+{:.center-image}
+![]({{ site.baseurl }}/img/yappit2.JPG)
+
+{:.center-image}
+![]({{ site.baseurl }}/img/yappit3.JPG)
+
+{:.center-image}
+![]({{ site.baseurl }}/img/yappit4.JPG)
+
+{:.center-image}
+![]({{ site.baseurl }}/img/yappit5.JPG)

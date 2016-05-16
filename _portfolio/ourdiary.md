@@ -11,7 +11,7 @@ OurDiary helps couples remember an array of experiences, make definite plans for
 <br>
 
 {:.center-image}
-![]({{ site.baseurl }}/img/ourdiary1.jpg)
+![]({{ site.baseurl }}/img/ourdiary1.JPG)
 
 <br>
 
@@ -56,17 +56,17 @@ After all, every event with your partner is worth remembering.
 
 
 {:.center-image}
-![]({{ site.baseurl }}/img/ourdiary2.jpg)
+![]({{ site.baseurl }}/img/ourdiary2.JPG)
 
 {:.center-image}
-![]({{ site.baseurl }}/img/ourdiary3.jpg)
+![]({{ site.baseurl }}/img/ourdiary3.JPG)
 
 {:.center-image}
-![]({{ site.baseurl }}/img/ourdiary4.jpg)
+![]({{ site.baseurl }}/img/ourdiary4.JPG)
 
 {:.center-image}
-![]({{ site.baseurl }}/img/ourdiary5.jpg)
+![]({{ site.baseurl }}/img/ourdiary5.JPG)
 
 {:.center-image}
-![]({{ site.baseurl }}/img/ourdiary6.jpg)
+![]({{ site.baseurl }}/img/ourdiary6.JPG)
 
