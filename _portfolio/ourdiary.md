@@ -11,9 +11,25 @@ OurDiary helps couples remember an array of experiences, make definite plans for
 <br>
 
 {:.center-image}
-![]({{ site.baseurl }}/img/ourdiary.JPG)
+![]({{ site.baseurl }}/img/ourdiary1.jpg)
 
 <br>
+
+
+{:.center} 
+## Technology and Implementation
+
+OurDiary is a Ruby on Rails web application built with the Google Maps API, Ruby gems, Bootstrap, Amazon S3, and deployed with Heroku.
+
+> Ruby gems
+>
+> - Rspec for testing
+> - Paperclip for images
+> - Devise for users
+> - Pundit for user roles
+> - Geocoder for location
+> - Stripe for payments
+> - Fullcalendar for dates
 
 {:.center} 
 ## Context
@@ -38,20 +54,19 @@ Store memories and future plans in a private setting.
 
 After all, every event with your partner is worth remembering.
 
-{:.center} 
-## Technology and Implementation
 
-OurDiary is a Ruby on Rails web application built with the Google Maps API, Ruby gems, Bootstrap, Amazon S3, and deployed with Heroku.
+{:.center-image}
+![]({{ site.baseurl }}/img/ourdiary2.jpg)
 
-> Ruby gems
->
-> - Rspec for testing
-> - Paperclip for images
-> - Devise for users
-> - Pundit for user roles
-> - Geocoder for location
-> - Stripe for payments
-> - Fullcalendar for dates
+{:.center-image}
+![]({{ site.baseurl }}/img/ourdiary3.jpg)
 
+{:.center-image}
+![]({{ site.baseurl }}/img/ourdiary4.jpg)
 
+{:.center-image}
+![]({{ site.baseurl }}/img/ourdiary5.jpg)
+
+{:.center-image}
+![]({{ site.baseurl }}/img/ourdiary6.jpg)
 
