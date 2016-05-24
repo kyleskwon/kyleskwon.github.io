@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BlocJams
-thumbnail-path: "img/blocflix.png"
+thumbnail-path: "img/blocjams4.jpg"
 short-description: A Spotify replica for streaming music online.
 
 ---
