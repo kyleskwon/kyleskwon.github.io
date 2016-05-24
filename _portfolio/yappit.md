@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Yappit
-thumbnail-path: "img/yappit1.jpg"
+thumbnail-path: "img/yappit1.JPG"
 short-description: A Reddit replica for those who enjoy yapping.
 
 ---
