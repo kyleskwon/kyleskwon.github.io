@@ -24,11 +24,13 @@ feature-img: "img/color.png"
 
 <br>
 
-<iframe src="https://player.vimeo.com/video/159839560" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/159839560">Pave the Way | Southeast Asia</a> by <a href="https://vimeo.com/kylekwon">Kyle Kwon</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-
-<br>
-
 <h2 class="heading">Travel</h2>
 
 <p>I have been to 20 countries outside of the United States. I didn't visit a majority of those places until 2011. The amount of problem solving and self awareness that I gained can be attributed to my travels. I will forever be fascinated by the places I've seen and the people that I've encountered.</p>
+
+<br>
+
+<div class="center-image">
+    <iframe src="https://player.vimeo.com/video/159839560" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+    <p><a href="https://vimeo.com/159839560">Pave the Way | Southeast Asia</a> by <a href="https://vimeo.com/kylekwon">Kyle Kwon</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+</div>
