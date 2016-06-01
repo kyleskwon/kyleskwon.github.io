@@ -14,19 +14,19 @@ feature-img: "img/color.png"
 
 <h2 class="heading">Web Development</h2>
 
-<p>From the beginning of January 2015, my main focus was to teach myself full stack web development. With the help of my mentors, I learned how to build apps with various technologies including Ruby, Rails, HTML, CSS, and Bootstrap. Currently, I am working on my craft with frontend technologies such as Javascript, Angular.JS and jQuery.</p>
+<p>Since January of 2015, my main focus was to teach myself full stack web development. With the help of my mentors, I learned how to build applications with various technologies such Ruby, Rails, Bootstrap, HTML, and CSS. Currently, I am working on my craft with frontend technologies such as Javascript, Angular.JS and jQuery.</p>
 
 <br>
 
-<h2 class="heading">Motion & Picture</h2>
+<h2 class="heading">Global Perspective</h2>
 
-<p>Ever since I picked up my first DSLR in 2013, I fell in love with the sound of the shutter. Simply put, photography and video have made me continue to go outside. In post, editing is my playground to be creative both visually and through story telling.</p>
+<p>I have been to 20 countries outside of the U.S. I come from humble beginnings, and never imagined that I would be able to travel as much as I have. I gained tons of self awareness along my journey as well as problem solving skills that make life at home a breeze. You can say I was bit by the travel bug as I am fascinated by the places in our world and the people who I encountered along the way.</p>
 
 <br>
 
-<h2 class="heading">Travel</h2>
+<h2 class="heading">Visual & Audio</h2>
 
-<p>I have been to 20 countries outside of the United States. I didn't visit a majority of those places until 2011. The amount of problem solving and self awareness that I gained can be attributed to my travels. I will forever be fascinated by the places I've seen and the people that I've encountered.</p>
+<p>Ever since I picked up my first DSLR in 2013, I fell in love with the sound of the shutter. <a href="http://www.instagram.com/goldframes">Photography</a> and video motivate me to get outside. In post, editing to music is my favorite creative outlet. </p>
 
 <br>
 

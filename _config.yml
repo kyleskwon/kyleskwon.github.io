@@ -5,15 +5,14 @@ url: "http://kyleskwon.github.io" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: Kyle S. Kwon # Your name will go here
+  title: Home # Your name will go here
   description: "A personal portfolio and blog by Kyle S. Kwon" # used by search engines
 
   # Header and footer text
   header_text: >
-     <h1>Web Developer & Photog</h1>
-     <p></p>
+     <h1>Kyle Kwon</h1>
   header_text_feature_image: /img/
-  footer_text: >
+  footer_text: > 
    
 
   # Icons
@@ -24,7 +23,7 @@ theme:
   dribbble: 
   facebook: 
   flickr:
-  github: kyleskwon# github profile name, e.g. "madebymunsters"
+  github: kyleskwon # github profile name, e.g. "madebymunsters"
   google_plus:
   instagram: goldframes
   linkedin:  http://www.linkedin.com/in/kylekwon
