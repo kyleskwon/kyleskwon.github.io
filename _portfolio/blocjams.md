@@ -47,9 +47,9 @@ After working on the landing page, I built out the collection and album views (s
 {:.center}
 ### Refactoring with AngularJS
 
-Eager to learn a Javascript framework, I created a new repository in Github to get started. Next, I migrated the audio and image assets plus the CSS stylesheets to the new project. New script files were added to reference the Angular script file. After that, I bootstrapped the application and synced it Firebase as a backend. 
+Eager to learn a Javascript framework, I created a new repository in Github to get started. Next, I migrated the audio and image assets plus the CSS stylesheets to the new project. New script files were added to reference the Angular script file. After that, I bootstrapped the application I was off to the races. 
 
-From there, I browsed the documentation to learn about modules, controllers, services and more directives. 
+From there, I browsed the documentation to learn about modules, controllers, services and more directives. Along the way, I wrote my own documentation for attributes, functions and methods.
 
 With controllers, I created separate states that corresponded to the landing, collection and album views, which are referred to as templates in Angular. First, I learned about the ui-router to utilize its built in directives. In the index.html file, the ui-view directive shows the contents of the template when the user navigates to the route. The ui-sref directive is used to trigger a state. 
 
