@@ -47,7 +47,7 @@ After working on the landing page, I built out the collection and album views (s
 {:.center}
 ### Refactoring with AngularJS
 
-Eager to learn a Javascript framework, I created a new repository in Github to get started. Next, I migrated the audio and image assets plus the CSS stylesheets to the new project. New script files were added to refernce the Angular script file. After that, I bootstrapped the application and started learning about directives.
+Eager to learn a Javascript framework, I created a new repository in Github to get started. Next, I migrated the audio and image assets plus the CSS stylesheets to the new project. New script files were added to reference the Angular script file. After that, I bootstrapped the application and synced it Firebase as a backend. 
 
 From there, I browsed the documentation to learn about modules, controllers, services and more directives. 
 
