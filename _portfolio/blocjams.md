@@ -32,7 +32,7 @@ For responsiveness, I added a viewport tag to properly render the HTML and CSS f
 {:.center-image}
 ![]({{ site.baseurl }}/img/blocjams2.png)
 
-Using DOM scripting, I was able animate the selling points using events. By calling .getBoundingClientRect() I was able to measure the distance from top of the selling points to the top of the viewport/window. I also learned about the window.innerHeight property to decide when to trigger the animation. Once the user scrolled 200 pixels into the .selling-points element, I initiated the animation. 
+Using DOM scripting, I animated the selling points using events. By calling .getBoundingClientRect() I was able to measure the distance from top of the selling points to the top of the viewport/window. I also learned about the window.innerHeight property to decide when to trigger the animation. Once the user scrolled 200 pixels into the .selling-points element, I initiated the animation. 
 
 After working on the landing page, I built out the collection and album views (see below).
 
@@ -42,7 +42,22 @@ After working on the landing page, I built out the collection and album views (s
 {:.center-image}
 ![]({{ site.baseurl }}/img/blocjams4.png)
 
+<br>
 
+{:.center}
+### Refactoring with AngularJS
+
+Eager to learn a Javascript framework, I created a new repository in Github to get started. Next, I migrated the audio and image assets plus the CSS stylesheets to the new project. New script files were added to refernce the Angular script file. After that, I bootstrapped the application and started learning about directives.
+
+From there, I browsed the documentation to learn about modules, controllers, services and more directives. 
+
+With controllers, I created separate states that corresponded to the landing, collection and album views, which are referred to as templates in Angular. First, I learned about the ui-router to utilize its built in directives. In the index.html file, the ui-view directive shows the contents of the template when the user navigates to the route. The ui-sref directive is used to trigger a state. 
+
+For services, functions were written to be shared across different components. For example, the Fixtures service held album data including the title, artist, label, year, albumArtUrl, and songs in an array of objects. This service was injected into the controllers to be used in albums and the collection of albums. 
+
+
+
+<!--
 {:.center} 
 ## Problem
 
@@ -54,6 +69,7 @@ What problem?
 
 {:.center} 
 Streaming music instantly.
+-->
 
 
 
