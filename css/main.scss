@@ -21,6 +21,14 @@
     background-color: rgba(0, 0, 0, 0.1);
 }
 
+.project {
+    transition: box-shadow 0.5s;
+}
+
+.project:hover {
+    box-shadow: 5px 0px 40px rgba(0,0,0, .2);
+}
+
 // External
 @import 'external/reset';
 @import 'external/solarized-dark';

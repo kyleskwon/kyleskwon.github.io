@@ -11,10 +11,10 @@ theme:
   # Header and footer text
   header_text: >
      <h1>Kyle S. Kwon</h1>
-     <h5>full stack web developer, photog, video editor</h5>
+     <h5>Javascript-er, RubyonRails-ist, Teacher & Marketer</h5>
   header_text_feature_image: /img/
   footer_text: > 
-        <h5>Kyle S. Kwon 2016</h5
+        <h5>© 2016</h5
    
 
   # Icons

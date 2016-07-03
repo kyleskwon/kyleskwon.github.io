@@ -19,7 +19,7 @@ SeoulTidbits is the simplified version of Yelp, saving you time and headache.
 
 Initially, SeoulTidbits was named Yappit because it was a Reddit replica. It was my first Rails app that I built with my mentor. My friend and I wanted to transform it into something useful for family, friends, fellow expats, and local citizens living in Seoul. 
 
-First I will describe how I built Yappit with my mentor, Chris. Then, I will explain how I transformed it into SeoulTidbits with my friend, Stephen.
+First I will describe how I built Yappit with my mentor, Chris. Then, I will explain how I am transforming it into SeoulTidbits with my business partner, Stephen.
 
 The screenshots of SeoulTidbits will be updated once Stephen and I work out the UI/UX. We are currently working on it so he can pitch the idea to one of his contacts. In the meantime, the screenshots of Yappit will provide a glimpse of the functionality of the application. Keep in mind, I didn't know much about frontend development, so the design is minimal. My focus was to get to know the Rails framework and ensure smooth functionality. 
 
