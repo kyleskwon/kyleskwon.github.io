@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Auditory Angular
+title: Auditory
 thumbnail-path: "img/auditory4.png"
-short-description: A Spotify replica for streaming music online.
+short-description: Music streaming service (Angular)
 
 ---
 

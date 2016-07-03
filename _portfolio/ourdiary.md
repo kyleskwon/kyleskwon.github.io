@@ -2,7 +2,7 @@
 layout: post
 title: OurDiary
 thumbnail-path: "img/ourdiary1.JPG"
-short-description: Built to help couples remember the past and plan for the future.
+short-description: Private memory and plan storage for couples (RoR)
 
 ---
 

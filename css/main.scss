@@ -7,14 +7,7 @@
 
 .center-image {
     text-align: center;
-}
-
-.work {
-    background-color: #f9f9ff;
-}
-
-.invisible {
-    color: white;
+    box-shadow: 5px 0px 40px rgba(0,0,0, .2);
 }
 
 .portrait {
@@ -22,11 +15,12 @@
 }
 
 .project {
-    transition: box-shadow 0.5s;
+    box-shadow: 5px 0px 40px rgba(0,0,0, .2);
 }
 
 .project:hover {
-    box-shadow: 5px 0px 40px rgba(0,0,0, .2);
+    box-shadow: 10px 5px 80px rgba(1,1,1, .4);
+    transition: box-shadow 0.5s;
 }
 
 // External
