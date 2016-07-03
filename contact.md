@@ -16,5 +16,6 @@ Send me a message and I'll get back to you within 24 hours.
   <textarea name='message' placeholder='Write your message ...'></textarea>
   <input type='submit' value='Send Message' />
 </form>
-
-##### Currently in: Baltimore, Maryland USA
+<div class="right">
+Currently in: Baltimore, Maryland USA
+</div>

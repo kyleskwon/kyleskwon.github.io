@@ -5,7 +5,7 @@ permalink: /about/
 feature-img: "img/color.png"
 ---
 
-{:.center-image}
+{:.center-about}
 ![]({{ site.baseurl }}/img/portrait.JPG)
 
 <br>
@@ -30,7 +30,7 @@ feature-img: "img/color.png"
 
 <br>
 
-<div class="center-image">
+<div class="center-about">
     <iframe src="https://player.vimeo.com/video/159839560" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
     <p><a href="https://vimeo.com/159839560">Pave the Way | Southeast Asia</a> by <a href="https://vimeo.com/kylekwon">Kyle Kwon</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 </div>
