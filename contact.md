@@ -2,7 +2,7 @@
 layout: page
 title: Contact
 permalink: /contact/
-feature-img: "img/color.png"
+feature-img: "img/"
 ---
 
 {:.center}
@@ -16,6 +16,12 @@ Send me a message and I'll get back to you within 24 hours.
   <textarea name='message' placeholder='Write your message ...'></textarea>
   <input type='submit' value='Send Message' />
 </form>
+
 <div class="right">
-Currently in: Baltimore, Maryland USA
+    Currently in: Baltimore, Maryland USA
 </div>
+<br>
+
+<!--
+{:.center-contact}
+![]({{ site.baseurl }}/img/1baltimore.JPG)-->

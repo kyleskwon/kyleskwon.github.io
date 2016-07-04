@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SeoulTidbits (previously Yappit)
-thumbnail-path: "img/yappit1.JPG"
+thumbnail-path: "img/seoultidbits1.png"
 short-description: Insider tips for small businesses in Korea (RoR)
 
 ---
