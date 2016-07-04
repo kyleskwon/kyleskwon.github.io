@@ -55,6 +55,4 @@ because the first index of an array is 0, so even though the needle is in the fo
 
 Notice the space after the word "position" in the function so the 5 doesn't latch onto it in the phrase that is returned. 
 
-
-
-Can you think of another solution for [this kata](www.codewars.com/kata/a-needle-in-the-haystack/train/javascript)?
+Can you think of another solution for [this kata](https://www.codewars.com/kata/a-needle-in-the-haystack/train/javascript)?
