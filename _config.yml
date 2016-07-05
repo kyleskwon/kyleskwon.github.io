@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/kyleskwon.github.io" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://kyleskwon.github.io" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
@@ -11,7 +11,7 @@ theme:
   # Header and footer text
   header_text: >
      <h1>Kyle S. Kwon</h1>
-     <h5>Javascript-er | RubyonRails-er | Teacher | Marketer</h5>
+     <h5>( Javascript-er ) &&  ( RubyonRails-er ) && ( Teacher ) && ( Marketer )</h5>
   header_text_feature_image: /img/
   footer_text: > 
         <h5>© 2016</h5

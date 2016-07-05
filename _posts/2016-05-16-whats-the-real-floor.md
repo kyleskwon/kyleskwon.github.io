@@ -6,53 +6,79 @@ title: What's the Real Floor?
 {:.center} 
 ## Breaking Down a Codewars Kata #2
 
+{:.right} 
 <strong>Difficulty level: easy</strong>
 
+<br>
 <hr>
 <br>
 
 {:.center} 
 ### Situation/Task
 
-The objective of this challenge is to write a function called findNeedle() that takes an array full of junk, but contains one "needle". Once it finds the needle, it should return the phrase "found the needle at position " plus the index of the needle.
+The objective of this challenge is to write a function that given a building floor (from an American's perspective) returns the "real" floor.
 
-The function is given with an empty body like so...
+Specifically, the 1st floor is the ground floor and there is no 13th floor because of superstition (13 is unlucky). Actually, sometimes I see the 4th floor missing in an elevator, and I believe that's because "four" and "death" are similarly pronouced in Mandarin Chinese. For this kata, we'll still include the 4th floor, because it's fun to do bad things. 
 
-```
-function findNeedle(haystack) {
+
+~~~javascript
+function getRealFloor(number) {
     // insert code here
 }
-```
+
+getRealFloor(-1) == -1 # Basement floors
+getRealFloor(0) == 0 # Special case to please Europeans
+getRealFloor(1) == 0 # Ground floor
+getRealFloor(2) == 1 # 2nd floor
+...
+getRealFloor(12) == 11 # 12th floor
+getRealFloor(14) == 12 # 14th floor
+getRealFloor(15) == 13 # 15th floor
+~~~
+
 
 {:.center} 
 ### Action
 
-Immediately, I thought to find the index of the string "needle" in the haystack (the array that is passed into the function) using the .indexOf() method (which returns a number). After storing the index in a variable, I returned the phrase plus that variable using string concatination
+Instantly, I wanted to create an if, else if statement inside the function with the conditions (inside the parentheses) for the basement, ground, 1st, 2nd-12th, and 14th flor or higher. When a condition is true based on the number passed into getRealFloor, it would return the "real" floor as a number. I used the == to compare (n) to 0 and 1, and the > and < symbols to compare (n) to 0, 1, and 13
 
-```
-function findNeedle(haystack) {
-    var index = haystack.indexOf("needle");
-    return "found the needle at position " + index;
+
+~~~javascript
+function getRealFloor(n) {
+  if (n == 0 || n == 1) {
+    return 0;
+  } else if (n < 0) {
+    return n;
+  } else if (n > 1 && n < 13) {
+    return n - 1;
+  } else if (n > 13) {
+    return n - 2;
+  }
 }
-```
+~~~
 
 {:.center} 
 ### Result
 
-Thus, for this function
+All the tests passed
 
-```
-findNeedle(['hay', 'junk', 'moreJunk', 'needle', 'randomJunk'])
-```
+~~~javascript
+* the number passed into the function is an American floor
+getRealFloor(-1); 
+    returns -1 # Basement floors
+getRealFloor(0); 
+    returns 0 # Special case to please Europeans
+getRealFloor(1); 
+    returns 0 # Ground floor
+getRealFloor(2); 
+    returns 1 # 2nd floor
+...
+getRealFloor(12); 
+    returns 11 # 12th floor
+getRealFloor(14); 
+    returns 12 # 14th floor
+getRealFloor(15); 
+    returns 13 # 15th floor
+~~~
 
-the result is 
-
-```
-'found the needle at position 3'
-```
-
-because the first index of an array is 0, so even though the needle is in the fourth position, it's index is 3.
-
-Notice the space after the word "position" in the function so the 5 doesn't latch onto it in the phrase that is returned. 
-
-Can you think of another solution for [this kata](https://www.codewars.com/kata/a-needle-in-the-haystack/train/javascript)?
+Can you think of another solution for [this kata](https://www.codewars.com/kata/574b3b1599d8f897470018f6)?
