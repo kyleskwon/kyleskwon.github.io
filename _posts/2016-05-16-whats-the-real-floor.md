@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Needle in a Haystack
+title: What's the Real Floor?
 ---
 
 {:.center} 
-## Breaking Down a Codewars Kata #1
+## Breaking Down a Codewars Kata #2
 
 <strong>Difficulty level: easy</strong>
 
