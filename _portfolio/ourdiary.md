@@ -1,7 +1,7 @@
 ---
 layout: post
 title: OurDiary
-thumbnail-path: "img/ourdiary1.JPG"
+thumbnail-path: "img/ourdiary2.png"
 short-description: Private memory and plan storage for couples (RoR)
 
 ---
@@ -15,12 +15,23 @@ OurDiary helps couples remember an array of experiences, make definite plans for
 - Integrated Google Maps API to display customized map from user input
 - Used Ruby gems for user authentication, roles, testing, payments, location, calendar, and images
 
-*The following screenshots are from the original version of OurDiary. I am currently refactoring the frontend, so I will update the images when it's complete.
+*The following screenshots are before and after my first refactor. Currently, I am still working on the frontend as I learn, so I will update the images again in the future.
 
 <br>
 
+{:.center} 
+#### Before
+
 {:.center-image}
 ![]({{ site.baseurl }}/img/ourdiary1.JPG)
+
+<br>
+
+{:.center} 
+#### After
+
+{:.center-image}
+![]({{ site.baseurl }}/img/ourdiary1.png)!!!!!
 
 <br>
 
@@ -55,21 +66,75 @@ Before I created the app, I brainstormed my ideas with my mentor, Chris. We defi
 
 As I created the Rails app and got things up and running quickly with a technique called scaffolding, I tracked bug issues with Github for Chris and I to discuss and tackle during our meetings. For the most part, I was able to implement the user stories on my own by reading documentation and using my knowledge from my coursework with the Bloc backend web developer course. 
 
+{:.center} 
+#### Before
+
 {:.center-image}
 ![]({{ site.baseurl }}/img/ourdiary2.JPG)
+
+<br>
+
+{:.center} 
+#### After
+
+{:.center-image}
+![]({{ site.baseurl }}/img/ourdiary2.png)!!!!!
+
+{:.center-image}
+![]({{ site.baseurl }}/img/ourdiary2b.png)!!!!!
+
+<br>
+<hr>
+
+{:.center} 
+#### Before
 
 {:.center-image}
 ![]({{ site.baseurl }}/img/ourdiary3.JPG)
 
+<br>
+
+{:.center} 
+#### After
+
+{:.center-image}
+![]({{ site.baseurl }}/img/ourdiary3.png)!!!!!
+
+<br>
+<hr>
+
+{:.center} 
+#### Before
+
 {:.center-image}
 ![]({{ site.baseurl }}/img/ourdiary4.JPG)
+
+<br>
+
+{:.center} 
+#### After
+
+{:.center-image}
+![]({{ site.baseurl }}/img/ourdiary4.png)!!!!!
+
+<br>
+<hr>
+
+{:.center} 
+#### Before
 
 {:.center-image}
 ![]({{ site.baseurl }}/img/ourdiary5.JPG)
 
-{:.center-image}
-![]({{ site.baseurl }}/img/ourdiary6.JPG)
+<br>
 
+{:.center} 
+#### After
+
+{:.center-image}
+![]({{ site.baseurl }}/img/ourdiary5.png)!!!!!
+
+<br>
 
 {:.center} 
 ## Technology and Implementation

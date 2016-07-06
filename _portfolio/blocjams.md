@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Auditory
-thumbnail-path: "img/auditory4.png"
+thumbnail-path: "img/auditory0.png"
 short-description: Music streaming service (Angular)
 
 ---
