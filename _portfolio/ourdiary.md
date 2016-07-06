@@ -31,7 +31,7 @@ OurDiary helps couples remember an array of experiences, make definite plans for
 #### After
 
 {:.center-image}
-![]({{ site.baseurl }}/img/ourdiary1.png)!!!!!
+![]({{ site.baseurl }}/img/ourdiary1.png)
 
 <br>
 
@@ -78,10 +78,10 @@ As I created the Rails app and got things up and running quickly with a techniqu
 #### After
 
 {:.center-image}
-![]({{ site.baseurl }}/img/ourdiary2.png)!!!!!
+![]({{ site.baseurl }}/img/ourdiary2.png)
 
 {:.center-image}
-![]({{ site.baseurl }}/img/ourdiary2b.png)!!!!!
+![]({{ site.baseurl }}/img/ourdiary2b.png)
 
 <br>
 <hr>
@@ -98,7 +98,7 @@ As I created the Rails app and got things up and running quickly with a techniqu
 #### After
 
 {:.center-image}
-![]({{ site.baseurl }}/img/ourdiary3.png)!!!!!
+![]({{ site.baseurl }}/img/ourdiary3.png)
 
 <br>
 <hr>
@@ -132,7 +132,7 @@ As I created the Rails app and got things up and running quickly with a techniqu
 #### After
 
 {:.center-image}
-![]({{ site.baseurl }}/img/ourdiary5.png)!!!!!
+![]({{ site.baseurl }}/img/ourdiary5.png)
 
 <br>
 
