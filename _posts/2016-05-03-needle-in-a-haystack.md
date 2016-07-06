@@ -14,7 +14,7 @@ title: Needle in a Haystack
 <br>
 
 {:.center} 
-### Situation/Task
+### Task
 
 The objective of this challenge is to write a function called findNeedle() that takes an array full of junk, but contains one "needle". Once it finds the needle, it should return the phrase "found the needle at position " plus the index of the needle.
 

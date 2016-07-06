@@ -1,41 +1,83 @@
 ---
 
 ---
-.heading {
-    text-align: center;
-}
 
-.center-about {
-    text-align: center;
-}
+ *, *::before, *::after {
+     -moz-box-sizing: border-box;
+     -webkit-box-sizing: border-box;
+     box-sizing: border-box;
+ }
 
-.center-image {
-    text-align: center;
-    box-shadow: 5px 0px 40px rgba(0,0,0, .2);
-}
+@media only screen and (max-width: 640px) {
+   .center-image {
+        text-align: center;
+        box-shadow: 5px 0px 40px rgba(0,0,0, .2);
+    }
+    
+    html { 
+        font-size: 75%;
+    }
+    
+    .project {
+        box-shadow: 5px 0px 40px rgba(0,0,0, .2);
+    }
+ }
 
-.center-contact {
-    width: 700px;
-    position: relative;
-}
+@media only screen and (min-width: 640px) {
+   .center-image {
+        text-align: center;
+        box-shadow: 5px 0px 40px rgba(0,0,0, .2);
+    }
+    
+    html { 
+        font-size: 100%; 
+    }
+    
+    .project {
+        box-shadow: 5px 0px 40px rgba(0,0,0, .2);
+    }
+ }
 
-.portrait {
-    background-color: rgba(0, 0, 0, 0.1);
-}
+@media only screen and (min-width: 1024px) {
+    html { 
+        font-size: 100%; 
+    }
+    
+    .heading {
+        text-align: center;
+    }
 
-.project {
-    box-shadow: 5px 0px 40px rgba(0,0,0, .2);
-}
+    .center-about {
+        text-align: center;
+    }
 
-.project:hover {
-    box-shadow: 10px 5px 80px rgba(1,1,1, .4);
-    transition: box-shadow 0.5s;
-}
+    .center-image {
+        text-align: center;
+        box-shadow: 5px 0px 40px rgba(0,0,0, .2);
+    }
 
-.right {
-    float: right;
-}
+    .center-contact {
+        width: 700px;
+        position: relative;
+    }
 
+    .portrait {
+        background-color: rgba(0, 0, 0, 0.1);
+    }
+
+    .project {
+        box-shadow: 5px 0px 40px rgba(0,0,0, .2);
+    }
+
+    .project:hover {
+        box-shadow: 10px 5px 80px rgba(1,1,1, .4);
+        transition: box-shadow 0.5s;
+    }
+
+    .right {
+        float: right;
+    }
+}
 // External
 @import 'external/reset';
 @import 'external/solarized-dark';

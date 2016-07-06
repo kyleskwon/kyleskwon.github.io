@@ -5,7 +5,7 @@ permalink: /about/
 feature-img: "img/"
 ---
 
-{:.center-about}
+{:.center-about .img-rounded}
 ![]({{ site.baseurl }}/img/portrait.JPG)
 
 <br>

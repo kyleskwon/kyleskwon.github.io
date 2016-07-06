@@ -14,7 +14,7 @@ title: What's the Real Floor?
 <br>
 
 {:.center} 
-### Situation/Task
+### Task
 
 The objective of this challenge is to write a function that given a building floor (from an American's perspective) returns the "real" floor.
 
