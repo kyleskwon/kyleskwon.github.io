@@ -115,7 +115,7 @@ As I created the Rails app and got things up and running quickly with a techniqu
 #### After
 
 {:.center-image}
-![]({{ site.baseurl }}/img/ourdiary4.png)!!!!!
+![]({{ site.baseurl }}/img/ourdiary4.png)
 
 <br>
 <hr>

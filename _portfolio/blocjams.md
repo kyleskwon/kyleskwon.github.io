@@ -7,7 +7,7 @@ short-description: Music streaming service (Angular)
 ---
 
 {:.center} 
-### Auditory Angular is an online music streaming service.
+### [Auditory Angular](http://auditory-angular.herokuapp.com) is an online music streaming service.
 
 {:.center-image}
 ![]({{ site.baseurl }}/img/auditory1.png)
@@ -16,14 +16,14 @@ short-description: Music streaming service (Angular)
 #### Technology and Implementation
 
 {:.center}
-Auditory is a web application built with AngularJS, Firebase, Grunt, and deployed with [Heroku](auditory-angular.herokuapp.com). It was refactored after originally being written with Javascript, jQuery and DOM scripting. 
+[Auditory](http://auditory-angular.herokuapp.com) is a web application built with AngularJS, Firebase, Grunt, and deployed with [Heroku](http://auditory-angular.herokuapp.com). It was refactored after originally being written with Javascript, jQuery and DOM scripting. 
 
 <br>
 
 {:.center} 
 ### Context
 
-When Auditory was first created, I started by building out the basic HTML structure with Bootstrap for CSS. On the landing page, the hero container holds the selling points (see below). External stylesheets such as Google Fonts, Ionicons, and Normalize were included in the index.html file. For CSS selectors, such as classes, the style properties and values were written in the main.css file. 
+When [Auditory](http://auditory-angular.herokuapp.com) was first created, I started by building out the basic HTML structure with Bootstrap for CSS. On the landing page, the hero container holds the selling points (see below). External stylesheets such as Google Fonts, Ionicons, and Normalize were included in the index.html file. For CSS selectors, such as classes, the style properties and values were written in the main.css file. 
 
 One of my favorite pseudo-class selectors is the <strong>[:hover](http://www.w3schools.com/cssref/sel_hover.asp)</strong> selector. By changing the font color when a cursor mouses over the element, it brings a sense of liveliness to the interface. 
 
