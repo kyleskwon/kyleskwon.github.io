@@ -8,43 +8,9 @@
      box-sizing: border-box;
  }
 
-@media only screen and (max-width: 640px) {
-   .center-image {
-        text-align: center;
-        box-shadow: 5px 0px 40px rgba(0,0,0, .2);
-    }
-    
-    html { 
-        font-size: 75%;
-    }
-    
-    .project {
-        box-shadow: 5px 0px 40px rgba(0,0,0, .2);
-    }
- }
-
-@media only screen and (min-width: 640px) {
-   .center-image {
-        text-align: center;
-        box-shadow: 5px 0px 40px rgba(0,0,0, .2);
-    }
-    
-    html { 
-        font-size: 100%; 
-    }
-    
-    .project {
-        box-shadow: 5px 0px 40px rgba(0,0,0, .2);
-    }
- }
-
-@media only screen and (min-width: 1024px) {
-    html { 
-        font-size: 100%; 
-    }
-    
-    .heading {
-        text-align: center;
+    article {
+        width: 130% !important;
+        margin-left: -60px;
     }
 
     .center-about {
@@ -61,21 +27,83 @@
         position: relative;
     }
 
-    .portrait {
-        background-color: rgba(0, 0, 0, 0.1);
+    .heading {
+        text-align: center;
+    }
+
+    html { 
+        font-size: 70%;
     }
 
     .project {
         box-shadow: 5px 0px 40px rgba(0,0,0, .2);
     }
 
+    .right {
+        float: right;
+    }
+
+@media only screen and (min-width: 460px) and (max-width: 767px) {
+    article {
+        width: 100% !important;
+        margin-left: 0px;
+    }
+    
+    html {
+        font-size: 100%; 
+    }
+    
     .project:hover {
         box-shadow: 10px 5px 80px rgba(1,1,1, .4);
         transition: box-shadow 0.5s;
     }
+ }
 
-    .right {
-        float: right;
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    article {
+        width: 100% !important;
+        margin-left: 0px;
+    }
+    
+    html {
+        font-size: 100%; 
+    }
+    
+    .project:hover {
+        box-shadow: 10px 5px 80px rgba(1,1,1, .4);
+        transition: box-shadow 0.5s;
+    }
+ }
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+    article {
+        width: 100% !important;
+        margin-left: 0px;
+    }
+    
+    html {
+        font-size: 100%; 
+    }
+    
+    .project:hover {
+        box-shadow: 10px 5px 80px rgba(1,1,1, .4);
+        transition: box-shadow 0.5s;
+    }
+ }
+
+@media only screen and (min-width: 1200px) {
+    article {
+        width: 100% !important;
+        margin-left: 0px;
+    }
+    
+    html { 
+        font-size: 100%; 
+    }
+
+    .project:hover {
+        box-shadow: 10px 5px 80px rgba(1,1,1, .4);
+        transition: box-shadow 0.5s;
     }
 }
 // External

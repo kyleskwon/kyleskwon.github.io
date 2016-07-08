@@ -31,6 +31,6 @@ feature-img: "img/"
 <br>
 
 <div class="center-about">
-    <iframe src="https://player.vimeo.com/video/159839560" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+    <iframe src="https://player.vimeo.com/video/159839560" width="900" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
     <p><a href="https://vimeo.com/159839560">Pave the Way | Southeast Asia</a> by <a href="https://vimeo.com/kylekwon">Kyle Kwon</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 </div>
