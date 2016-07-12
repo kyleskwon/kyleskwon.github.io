@@ -10,8 +10,9 @@ theme:
 
   # Header and footer text
   header_text: >
-     <h1>Kyle S. Kwon</h1>
-     <h5>( Javascript-er ) &&  ( RubyonRails-er ) && ( Teacher ) && ( Marketer )</h5>
+     <h2>Kyle S. Kwon</h2>
+     <h5>( Javascript-er ) &&  ( RubyonRails-er )</h5>
+     <h5>( Teacher ) && ( Marketer )</h5>
   header_text_feature_image: /img/
   footer_text: > 
         <h5>Kyle S. Kwon © 2016</h5

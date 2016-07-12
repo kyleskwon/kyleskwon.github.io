@@ -8,83 +8,145 @@
      box-sizing: border-box;
  }
 
-    article {
-        width: 130% !important;
-        margin-left: -50px;
-    }
+.center-about {
+    text-align: center;
+}
 
-    .center-about {
-        text-align: center;
-    }
+.center-image {
+    text-align: center;
+    box-shadow: 5px 0px 40px rgba(0,0,0, .2);
+}
 
-    .center-image {
-        text-align: center;
-        box-shadow: 5px 0px 40px rgba(0,0,0, .2);
-    }
+.center-contact {
+    width: 700px;
+    position: relative;
+}
 
-    .center-contact {
-        width: 700px;
-        position: relative;
-    }
+.heading {
+    text-align: center;
+}
 
-    .heading {
-        text-align: center;
-    }
+.center-content {
+    margin-left: auto;
+    margin-right: auto;
+}
 
-    html { 
-        font-size: 70%;
-    }
+.education-heading {
+    text-align: center;
+    padding-top: 150px;
+}
 
-    .project {
-        box-shadow: 5px 0px 40px rgba(0,0,0, .2);
-    }
+.employment-heading {
+    text-align: center;
+    padding-top: 20px;    
+}
 
-    article, .comments {
-        padding-left: 7% !important;
-        padding-right: 7% !important;
-    }
+html { 
+    font-size: 70%;
+}
 
-    .resume {
-        font-size: 13px;
-    }
-    @media (min-width: 1350px) and (max-width: 1500px) {
+.project {
+    box-shadow: 5px 0px 40px rgba(0,0,0, .2);
+}
+
+.resume {
+    font-size: 17px;
+}
+    @media (min-width: 1350px) {
         .resume {
-            font-size: 17px;
+            font-size: 14px;
         }
     }
-    @media (min-width: 1100px) and (max-width: 1349px) {
+    @media (min-width: 1150px) and (max-width: 1349px) {
         .resume {
-            font-size: 15px;
+            font-size: 13px;
         }
     }
-    @media (min-width: 820px) and (max-width: 1099px) {
+    @media (min-width: 910px) and (max-width: 1149px) {
         .resume {
             font-size: 12px;
         }
     }
-    @media (min-width: 600px) and (max-width: 819px) {
+    @media (min-width: 810px) and (max-width: 909px) {
+        .resume {
+            font-size: 11px;
+        }
+        .education-heading {
+            padding-top: 135px;
+        }
+    }
+    @media (min-width: 700px) and (max-width: 809px) {
+        .resume {
+            font-size: 10px;
+        }
+        .education-heading {
+            padding-top: 130px;
+        }
+    }
+    @media (min-width: 620px) and (max-width: 699px) {
         .resume {
             font-size: 9px;
         }
+        .education-heading {
+            padding-top: 130px;
+        }
+    }
+    @media (min-width: 500px) and (max-width: 619px) {
+        .resume {
+            font-size: 19px;
+        }
+        .left {
+            font-size: 22px;
+        }
+        .education-heading {
+            padding-top: 280px;
+        }
+    }
+    @media (min-width: 333px) and (max-width: 499px) {
+        .resume {
+            font-size: 16px;
+        }
+        .left {
+            font-size: 19px;
+        }
+        .education-heading {
+            padding-top: 250px;
+        }
+    }
+    @media (max-width: 332px) {
+        .resume {
+            font-size: 14px;
+        }
+        .left {
+            font-size: 16px;
+        }
+        .education-heading {
+            padding-top: 200px;
+        }
     }
 
+.right {
+    float: right;
+}
 
-    .right {
-        float: right;
-    }
-
+.left {
+    float: left;
+}
+@media (max-width: 500px) {
     .left {
-        float: left;
+        text-align: center;
     }
+}
 
-@media only screen and (min-width: 460px) and (max-width: 767px) {
-    article {
-        width: 100% !important;
-        margin-left: 0px;
-    }
-    
+
+@media only screen and (min-width: 300px) and (max-width: 767px) { 
     html {
         font-size: 85%; 
+    }
+    
+    article, .comments {
+        padding-left: 6% !important;
+        padding-right: 6% !important;
     }
     
     .project:hover {
@@ -94,13 +156,13 @@
  }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
-    article {
-        width: 100% !important;
-        margin-left: 0px;
-    }
-    
     html {
         font-size: 100%; 
+    }
+    
+    article, .comments {
+        padding-left: 10% !important;
+        padding-right: 10% !important;
     }
     
     .project:hover {
@@ -110,15 +172,15 @@
  }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
-    article {
-        width: 100% !important;
-        margin-left: 0px;
-    }
-    
     html {
         font-size: 105%; 
     }
     
+    article, .comments {
+        padding-left: 12% !important;
+        padding-right: 12% !important;
+    }
+
     .project:hover {
         box-shadow: 10px 5px 80px rgba(1,1,1, .4);
         transition: box-shadow 0.5s;
@@ -126,13 +188,13 @@
  }
 
 @media only screen and (min-width: 1200px) {
-    article {
-        width: 100% !important;
-        margin-left: 0px;
-    }
-    
     html { 
         font-size: 110%; 
+    }
+    
+    article, .comments {
+        padding-left: 17% !important;
+        padding-right: 17% !important;
     }
 
     .project:hover {
