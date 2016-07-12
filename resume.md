@@ -31,18 +31,18 @@ feature-img: "img/"
               <p>Grunt</p>
             </div>
             <div class="center-content left heading">
-                <p>Ruby on Rails</p>
-                <p>Bootstrap</p>
-                <p>AWS S3</p>
-                <p>HTML/CSS</p>
-                <p>Lightroom</p>
-            </div>
-            <div class="center-content left heading">
                 <p>Git</p>
                 <p>Github</p>
                 <p>Heroku</p>
                 <p>Jekyll</p>
                 <p>Premiere</p>
+            </div>
+            <div class="center-content left heading">
+                <p>Ruby on Rails</p>
+                <p>Bootstrap</p>
+                <p>AWS S3</p>
+                <p>HTML/CSS</p>
+                <p>Lightroom</p>
             </div>
         </div>
 <br>
