@@ -1,6 +1,6 @@
 // Typography
 $font-family-main: 'Raleway';
-$font-family-headings: 'Raleway', Georgia, serif, cursive;
+$font-family-headings: 'Product Sans', Georgia, serif, cursive;
 $font-size: 1.15em;
 
 // Padding
@@ -9,17 +9,17 @@ $padding-small: 5%;
 $padding-x-small: 3%;
 
 // Brand colours
-$brand-color: #fff;
-$background-color: #fff;
+$brand-color: #abbaab;
+$background-color: #274046;
 $border-color: rgba(0, 0, 0, 0.1); // rgba recommended if using feature images
 
 // Typography colours
-$text-color: #4a4a4a;
-$link-color: #0070BB;
-$selection-color: #D4D4D4; // visible when highlighting text
+$text-color: #fff;
+$link-color: #4CA1AF;
+$selection-color: #fff; // visible when highlighting text
 
 // Header colours
-$header-link-color: #383838;
+$header-link-color: #fff;
 
 // Feature image for articles
 $feature-image-text-color: #fff;

@@ -6,8 +6,9 @@ feature-img: "img/"
 ---
 
 {:.center}
-Send me a message and I'll get back to you within 24 hours.
+Send a message and I'll get back to you within 24 hours.
 
+{:.center}
 <form action="https://getsimpleform.com/messages?form_api_token=67cd197256654fcbb97993a2363c34a9" method="post">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
   <input type='hidden' name='redirect_to' value='http://kyleskwon.github.io/thank-you/' />

@@ -9,7 +9,7 @@
  }
 
 .center-about {
-    text-align: center;
+    width: 100%;
 }
 
 .center-image {
@@ -20,6 +20,12 @@
 .center-contact {
     width: 700px;
     position: relative;
+}
+
+form {
+    margin-left: 15%;
+    margin-right: 15%;
+    width: 70%;
 }
 
 .heading {
@@ -52,22 +58,22 @@ html {
 .resume {
     font-size: 17px;
 }
-    @media (min-width: 1350px) {
+    @media only screen and (min-width: 1350px) {
         .resume {
             font-size: 14px;
         }
     }
-    @media (min-width: 1150px) and (max-width: 1349px) {
+    @media only screen and (min-width: 1150px) and (max-width: 1349px) {
         .resume {
             font-size: 13px;
         }
     }
-    @media (min-width: 910px) and (max-width: 1149px) {
+    @media only screen and (min-width: 910px) and (max-width: 1149px) {
         .resume {
             font-size: 12px;
         }
     }
-    @media (min-width: 810px) and (max-width: 909px) {
+    @media only screen and (min-width: 810px) and (max-width: 909px) {
         .resume {
             font-size: 11px;
         }
@@ -75,7 +81,7 @@ html {
             padding-top: 135px;
         }
     }
-    @media (min-width: 700px) and (max-width: 809px) {
+    @media only screen and (min-width: 700px) and (max-width: 809px) {
         .resume {
             font-size: 10px;
         }
@@ -83,7 +89,7 @@ html {
             padding-top: 130px;
         }
     }
-    @media (min-width: 620px) and (max-width: 699px) {
+    @media only screen and (min-width: 620px) and (max-width: 699px) {
         .resume {
             font-size: 9px;
         }
@@ -91,7 +97,7 @@ html {
             padding-top: 130px;
         }
     }
-    @media (min-width: 500px) and (max-width: 619px) {
+    @media only screen and (min-width: 500px) and (max-width: 619px) {
         .resume {
             font-size: 19px;
         }
@@ -102,7 +108,12 @@ html {
             padding-top: 280px;
         }
     }
-    @media (min-width: 333px) and (max-width: 499px) {
+    @media only screen and (min-width: 333px) and (max-width: 499px) {
+        form {
+            margin-left: 0%;
+            margin-right: 0%;
+            width: 100%;
+        }
         .resume {
             font-size: 16px;
         }
@@ -113,7 +124,12 @@ html {
             padding-top: 250px;
         }
     }
-    @media (max-width: 332px) {
+    @media only screen and (max-width: 332px) {
+        form {
+            margin-left: 0%;
+            margin-right: 0%;
+            width: 100%;
+        }
         .resume {
             font-size: 14px;
         }
@@ -160,6 +176,12 @@ html {
         font-size: 100%; 
     }
     
+    .center-about {
+        margin-left: 10%;
+        margin-right: 10%;
+        width: 80%;
+    }
+    
     article, .comments {
         padding-left: 10% !important;
         padding-right: 10% !important;
@@ -176,6 +198,12 @@ html {
         font-size: 105%; 
     }
     
+    .center-about {
+        margin-left: 10%;
+        margin-right: 10%;
+        width: 80%;
+    }
+    
     article, .comments {
         padding-left: 12% !important;
         padding-right: 12% !important;
@@ -190,6 +218,12 @@ html {
 @media only screen and (min-width: 1200px) {
     html { 
         font-size: 110%; 
+    }
+    
+    .center-about {
+        margin-left: 10%;
+        margin-right: 10%;
+        width: 80%;
     }
     
     article, .comments {
