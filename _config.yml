@@ -10,10 +10,10 @@ theme:
 
   # Header and footer text
   header_text: >
-     <h2>Kyle S. Kwon</h2>
-     <h5>( Javascript-er ) &&  ( RubyonRails-er )</h5>
-     <h5>( Teacher ) && ( Photographer )</h5>
-  header_text_feature_image: /img/
+     <h2>KYLE S. KWON</h2>
+     <h5>{ Javascript-er } &&  { RubyonRails-er }</h5>
+     <h6>( Teacher ) && ( Photographer )</h6>
+  header_text_feature_image:
   footer_text: > 
         <h5>Kyle S. Kwon © 2016</h5
    
@@ -55,7 +55,7 @@ theme:
 
   # Colours, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"
-  google_fonts: "Raleway:300light"
+  google_fonts: "Istok Web"
 
 # PAGINATION
 paginate: 100

@@ -10,6 +10,7 @@
 
 .center-about {
     width: 100%;
+    text-align: center;
 }
 
 .center-image {
@@ -26,6 +27,10 @@ form {
     margin-left: 15%;
     margin-right: 15%;
     width: 70%;
+}
+
+input, textarea {
+    background-color: #606c88;
 }
 
 .heading {
@@ -49,6 +54,10 @@ form {
 
 html { 
     font-size: 70%;
+}
+
+post {
+    text-align: center;
 }
 
 .project {
@@ -198,15 +207,9 @@ html {
         font-size: 105%; 
     }
     
-    .center-about {
-        margin-left: 10%;
-        margin-right: 10%;
-        width: 80%;
-    }
-    
     article, .comments {
-        padding-left: 12% !important;
-        padding-right: 12% !important;
+        padding-left: 19% !important;
+        padding-right: 19% !important;
     }
 
     .project:hover {
@@ -220,15 +223,9 @@ html {
         font-size: 110%; 
     }
     
-    .center-about {
-        margin-left: 10%;
-        margin-right: 10%;
-        width: 80%;
-    }
-    
     article, .comments {
-        padding-left: 17% !important;
-        padding-right: 17% !important;
+        padding-left: 22% !important;
+        padding-right: 22% !important;
     }
 
     .project:hover {

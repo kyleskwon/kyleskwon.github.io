@@ -36,3 +36,9 @@ feature-img: "img/"
     <iframe src="https://player.vimeo.com/video/159839560" width="900" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
     <p><a href="https://vimeo.com/159839560">Pave the Way | Southeast Asia</a> by <a href="https://vimeo.com/kylekwon">Kyle Kwon</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 </div>
+
+<br>
+
+{:.center-about}
+![]({{ site.baseurl }}/img/photo_portfolio.png)
+A<a href="https://stillandmotion.herokuapp.com"> Photographic Essay</a> Through Southeast Asia
