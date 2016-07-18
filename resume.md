@@ -15,7 +15,7 @@ feature-img: "img/"
 <br>
     <div class="center-content">
       <p>kyleskwon@gmail.com</p>
-      <p>(310)-502-7624 </p>
+      <p>(310) 502-7624 </p>
       <p>kyleskwon.github.io (portfolio)</p>
       <p>linkedin.com/in/kyleskwon</p>
       <p>github.com/kyleskwon</p>
@@ -43,20 +43,22 @@ feature-img: "img/"
                 <p>AWS S3</p>
                 <p>HTML/CSS</p>
                 <p>Lightroom</p>
+                <br>
             </div>
         </div>
-<br>
+
         <h3 class="education-heading">Education</h3>
-<br>
-          <p>University of California, Berkeley</p>
-          <p>Bachelor's Degree</p>
-          <p>Bloc</p>
-          <p>Full Stack Developer Track</p>
-          <p>with mentorship</p>
+          <h4>Bloc</h4>
+          <h5>Full Stack Developer Track</h5>
+          <h5>with mentorship</h5>
+          <br>
+          <p><strong>University of California, Berkeley</strong></p>
+          <h5>Bachelor's Degree</h5>
+          <br>
     </div>
 
     <div class="right">
-        <h3 class="heading">Projects</h3>
+        <h3 class="heading projects-heading">Projects</h3>
         <h4>Auditory Angular</h4>
           <p>A music streaming service</p>
           <ul>

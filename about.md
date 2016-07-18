@@ -40,7 +40,10 @@ A<a href="https://stillandmotion.herokuapp.com"> Photographic Essay</a> Through 
 <br>
 
 {:.center-about}
-<iframe src="https://player.vimeo.com/video/159839560" width="900" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<div class="videoWrapper">
+    <!-- Copy & Pasted from YouTube -->
+    <iframe src="https://player.vimeo.com/video/159839560" frameborder="0"  webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
 
 {:.center-about}
 <p><a href="https://vimeo.com/159839560">Pave the Way | Southeast Asia</a>
