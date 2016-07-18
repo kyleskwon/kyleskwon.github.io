@@ -35,7 +35,7 @@ feature-img: "img/"
 
 {:.center-about}
 ![]({{ site.baseurl }}/img/photo_portfolio.png)
-A<a href="https://stillandmotion.herokuapp.com"> Photographic Essay</a> Through Southeast Asia
+A <a href="stillandmotion.herokuapp.com">Photographic Essay</a> Through Southeast Asia
 
 <br>
 
