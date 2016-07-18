@@ -24,9 +24,9 @@
 }
 
 form {
-    margin-left: 15%;
-    margin-right: 15%;
-    max-width: 70%;
+    margin-left: 0%;
+    margin-right: 0%;
+    width: 100%;
 }
 
 h7 {
@@ -73,21 +73,71 @@ post {
     font-size: 17px;
 }
     @media only screen and (min-width: 1350px) {
+        form {
+            margin-left: 12%;
+            margin-right: 12%;
+            max-width: 76%;
+        }
         .resume {
             font-size: 14px;
         }
     }
-    @media only screen and (min-width: 1150px) and (max-width: 1349px) {
+    @media only screen and (min-width: 1250px) and (max-width: 1349px) {
+        form {
+            margin-left: 12%;
+            margin-right: 12%;
+            max-width: 76%;
+        }
         .resume {
             font-size: 13px;
         }
     }
-    @media only screen and (min-width: 910px) and (max-width: 1149px) {
+    @media only screen and (min-width: 1155px) and (max-width: 1249px) {
+        form {
+            margin-left: 12%;
+            margin-right: 12%;
+            max-width: 76%;
+        }
         .resume {
             font-size: 12px;
         }
     }
+    @media only screen and (min-width: 1085px) and (max-width: 1154px) {
+        form {
+            margin-left: 12%;
+            margin-right: 12%;
+            max-width: 76%;
+        }
+        .resume {
+            font-size: 11px;
+        }
+    }
+    @media only screen and (min-width: 992px) and (max-width: 1084px) {
+        form {
+            margin-left: 12%;
+            margin-right: 12%;
+            max-width: 76%;
+        }
+        .resume {
+            font-size: 10px;
+        }
+    }
+    @media only screen and (min-width: 910px) and (max-width: 991px) {
+        form {
+            margin-left: 12%;
+            margin-right: 12%;
+            max-width: 76%;
+        }
+        .resume {
+            font-size: 11px;
+        }
+    }
     @media only screen and (min-width: 810px) and (max-width: 909px) {
+        form {
+            margin-left: 12%;
+            margin-right: 12%;
+            max-width: 76%;
+        }
         .resume {
             font-size: 11px;
         }
@@ -96,6 +146,11 @@ post {
         }
     }
     @media only screen and (min-width: 700px) and (max-width: 809px) {
+        form {
+            margin-left: 12%;
+            margin-right: 12%;
+            max-width: 76%;
+        }
         .resume {
             font-size: 10px;
         }
@@ -104,6 +159,11 @@ post {
         }
     }
     @media only screen and (min-width: 620px) and (max-width: 699px) {
+        form {
+            margin-left: 12%;
+            margin-right: 12%;
+            max-width: 76%;
+        }
         .resume {
             font-size: 9px;
         }
@@ -112,11 +172,16 @@ post {
         }
     }
     @media only screen and (min-width: 500px) and (max-width: 619px) {
+        form {
+            margin-left: 12%;
+            margin-right: 12%;
+            max-width: 76%;
+        }
         .resume {
-            font-size: 19px;
+            font-size: 17px;
         }
         .left {
-            font-size: 22px;
+            font-size: 27px;
         }
         .education-heading {
             padding-top: 280px;
@@ -129,10 +194,13 @@ post {
             width: 100%;
         }
         .resume {
-            font-size: 16px;
+            font-size: 15px;
         }
         .left {
-            font-size: 19px;
+            font-size: 15px;
+            margin-left: 0%;
+            margin-right: 0%;
+            width: 100%;
         }
         .education-heading {
             padding-top: 250px;
@@ -148,7 +216,10 @@ post {
             font-size: 14px;
         }
         .left {
-            font-size: 16px;
+            font-size: 15px;
+            margin-left: 0%;
+            margin-right: 0%;
+            width: 100%;
         }
         .education-heading {
             padding-top: 200px;
@@ -162,82 +233,73 @@ post {
 .left {
     float: left;
 }
-@media (max-width: 500px) {
-    .left {
-        text-align: center;
+
+    @media (max-width: 500px) {
+        .left {
+            text-align: center;
+        }
     }
-}
 
 
-@media only screen and (min-width: 300px) and (max-width: 767px) { 
-    html {
-        font-size: 85%; 
-    }
-    
-    article, .comments {
-        padding-left: 6% !important;
-        padding-right: 6% !important;
-    }
-    
-    .project:hover {
-        box-shadow: 10px 5px 80px rgba(1,1,1, .4);
-        transition: box-shadow 0.5s;
-    }
- }
+    @media only screen and (min-width: 300px) and (max-width: 767px) { 
+        html {
+            font-size: 85%; 
+        }
 
-@media only screen and (min-width: 768px) and (max-width: 991px) {
-    html {
-        font-size: 100%; 
-    }
-    
-    .center-about {
-        margin-left: 10%;
-        margin-right: 10%;
-        width: 80%;
-    }
-    
-    article, .comments {
-        padding-left: 10% !important;
-        padding-right: 10% !important;
-    }
-    
-    .project:hover {
-        box-shadow: 10px 5px 80px rgba(1,1,1, .4);
-        transition: box-shadow 0.5s;
-    }
- }
+        article, .comments {
+            padding-left: 6% !important;
+            padding-right: 6% !important;
+        }
 
-@media only screen and (min-width: 992px) and (max-width: 1199px) {
-    html {
-        font-size: 105%; 
-    }
-    
-    article, .comments {
-        padding-left: 19% !important;
-        padding-right: 19% !important;
-    }
+        .project:hover {
+            box-shadow: 10px 5px 80px rgba(1,1,1, .4);
+            transition: box-shadow 0.5s;
+        }
+     }
 
-    .project:hover {
-        box-shadow: 10px 5px 80px rgba(1,1,1, .4);
-        transition: box-shadow 0.5s;
-    }
- }
+    @media only screen and (min-width: 768px) and (max-width: 991px) {
+        html {
+            font-size: 100%; 
+        }
 
-@media only screen and (min-width: 1200px) {
-    html { 
-        font-size: 110%; 
-    }
-    
-    article, .comments {
-        padding-left: 22% !important;
-        padding-right: 22% !important;
-    }
+        .center-about {
+            margin-left: 10%;
+            margin-right: 10%;
+            width: 80%;
+        }
 
-    .project:hover {
-        box-shadow: 10px 5px 80px rgba(1,1,1, .4);
-        transition: box-shadow 0.5s;
+        article, .comments {
+            padding-left: 10% !important;
+            padding-right: 10% !important;
+        }
+
+        .project:hover {
+            box-shadow: 10px 5px 80px rgba(1,1,1, .4);
+            transition: box-shadow 0.5s;
+        }
+     }
+
+    @media only screen and (min-width: 992px) and (max-width: 1199px) {
+        html {
+            font-size: 105%; 
+        }
+
+        .project:hover {
+            box-shadow: 10px 5px 80px rgba(1,1,1, .4);
+            transition: box-shadow 0.5s;
+        }
+     }
+
+    @media only screen and (min-width: 1200px) {
+        html { 
+            font-size: 110%; 
+        }
+
+        .project:hover {
+            box-shadow: 10px 5px 80px rgba(1,1,1, .4);
+            transition: box-shadow 0.5s;
+        }
     }
-}
 // External
 @import 'external/reset';
 @import 'external/solarized-dark';

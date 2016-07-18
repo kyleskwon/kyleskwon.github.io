@@ -22,7 +22,7 @@ feature-img: "img/"
     </div>
 <br>
         <h3 class="heading">Skills</h3>
-        <div>
+        <div class="skills">
             <div class="center-content left heading">
               <p>Javascript</p>
               <p>AngularJS</p>
@@ -90,6 +90,7 @@ feature-img: "img/"
             <li>Polymorphically associated labels with topics and posts</li>
             <li>Ranked posts using time-decay algorithm</li>
           </ul>
+    <br>
         <h3 class="employment-heading">Employment</h3>
           <p>Instructor and Trainer, Chungdahm Learning</p>
           <p>Seoul, South Korea | 2013 - 2015</p>
