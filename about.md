@@ -42,7 +42,7 @@ A<a href="https://stillandmotion.herokuapp.com"> Photographic Essay</a> Through 
 {:.center-about}
 <div class="videoWrapper">
     <!-- Copy & Pasted from YouTube -->
-    <iframe src="https://player.vimeo.com/video/159839560" frameborder="0"  webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+    <iframe src="https://player.vimeo.com/video/159839560" width="640" height="360" frameborder="0"  webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 
 {:.center-about}
