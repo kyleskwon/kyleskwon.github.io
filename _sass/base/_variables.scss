@@ -1,6 +1,6 @@
 // Typography
-$font-family-main: 'Istok Web';
-$font-family-headings: 'Istok Web', sans-serif;
+$font-family-main: 'PT Sans Caption';
+$font-family-headings: 'Oswald', sans-serif;
 $font-size: 1.15em;
 
 // Padding
@@ -9,13 +9,13 @@ $padding-small: 5%;
 $padding-x-small: 3%;
 
 // Brand colours
-$brand-color: #90C695;
-$background-color: #67809F;
+$brand-color: #2C3E50;
+$background-color: #6C7A89;
 $border-color: rgba(0, 0, 0, 0.1); // rgba recommended if using feature images
 
 // Typography colours
 $text-color: #fff;
-$link-color: #fff;
+$link-color: #C5EFF7;
 $selection-color: #fff; // visible when highlighting text
 
 // Header colours
@@ -26,5 +26,5 @@ $feature-image-text-color: #fff;
 $feature-image-size: cover; // options include "cover", "contain", "auto"
 
 // Header description box
-$header-desc-background-color: ;
+$header-desc-background-color: #fff;
 $header-desc-text-color: #FFF;

@@ -7,13 +7,13 @@ theme:
   # Meta
   title: Home # Your name will go here
   description: "A personal portfolio and blog by Kyle S. Kwon" # used by search engines
-  avatar: "/img/portrait.JPG"
+  avatar: /img/portrait.JPG
 
   # Header and footer text
   header_text: >
-     <h2>KYLE S. KWON</h2>
-     <h5>{ Javascript-er } &&  { RubyonRails-er }</h5>
-     <h6>( Teacher ) && ( Photographer )</h6>
+     <h7>KYLE S. KWON</h7>
+     <p>{ Javascript-er } &&  { RubyonRails-er }</p>
+#     <p>( Teacher ) && ( Photographer )</p>
   header_text_feature_image:
   footer_text: > 
         <h5>Kyle S. Kwon © 2016</h5
@@ -56,7 +56,7 @@ theme:
 
   # Colours, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"
-  google_fonts: "Istok Web"
+  google_fonts: "Oswald:400normal, 'PT Sans Caption':400normal"
 
 # PAGINATION
 paginate: 100
