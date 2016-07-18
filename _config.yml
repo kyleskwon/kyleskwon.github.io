@@ -7,6 +7,7 @@ theme:
   # Meta
   title: Home # Your name will go here
   description: "A personal portfolio and blog by Kyle S. Kwon" # used by search engines
+  avatar: "/img/portrait.JPG"
 
   # Header and footer text
   header_text: >
