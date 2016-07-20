@@ -28,13 +28,13 @@ feature-img: "img/"
 <h4 class="heading">Visual & Audio</h4>
 
 {:.center-about}
-<p>Ever since I picked up my first DSLR in 2013, I fell in love with the sound of the shutter. <a href="http://stillandmotion.herokuapp.com">Photography</a> and video motivate me to get outside. In post, editing to music is my favorite creative outlet. </p>
+<p>Ever since I picked up my first DSLR in 2013, I fell in love with the sound of the shutter. <a class="about-link" href="http://stillandmotion.herokuapp.com">Photography</a> and video motivate me to get outside. In post, editing to music is my favorite creative outlet. </p>
 
 <br>
 
 {:.center-about}
 ![]({{ site.baseurl }}/img/photo_portfolio.png)
-A <a href="http://stillandmotion.herokuapp.com">Photographic Essay</a> Through Southeast Asia
+A <a class="about-link" href="http://stillandmotion.herokuapp.com">Photographic Essay</a> Through Southeast Asia
 
 <br>
 
@@ -45,6 +45,6 @@ A <a href="http://stillandmotion.herokuapp.com">Photographic Essay</a> Through S
 </div>
 
 {:.center-about}
-<p><a href="https://vimeo.com/159839560">Pave the Way | Southeast Asia</a>
+<p><a class="about-link" href="https://vimeo.com/159839560">Pave the Way | Southeast Asia</a>
 
 <br>

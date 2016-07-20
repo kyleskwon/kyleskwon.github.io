@@ -8,6 +8,15 @@
      box-sizing: border-box;
  }
 
+.about-link {
+    color: #C6E2FF;
+}
+
+.about-link:hover {
+    color: #FF9447;
+    text-decoration: none;
+}
+
 .center-about {
     width: 100%;
     text-align: center;
@@ -66,14 +75,19 @@ post {
 }
 
 .post-read-more {
-    color: #C5EFF7;
+    color: #C6E2FF;
 }
+
 .post-read-more:hover {
     color: #FF9447;
 }
 
-a:hover {
-    color: #C5EFF7;
+.post-link {
+    color: #C6E2FF;
+}
+
+.post-link:hover {
+    color: #FF9447;
 }
 
 .project {
@@ -85,8 +99,9 @@ a:hover {
 }
 
 .project-title {
-    color: #82CFFD;
+    color: #C6E2FF;
 }
+
 .project-title:hover {
     color: #FF9447;
 }
