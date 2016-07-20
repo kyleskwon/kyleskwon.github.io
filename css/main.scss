@@ -65,8 +65,30 @@ post {
     text-align: center;
 }
 
+.post-read-more {
+    color: #C5EFF7;
+}
+.post-read-more:hover {
+    color: #FF9447;
+}
+
+a:hover {
+    color: #C5EFF7;
+}
+
 .project {
     box-shadow: 5px 0px 40px rgba(0,0,0, .2);
+}
+
+.project-thumb {
+    background-color: white;
+}
+
+.project-title {
+    color: #82CFFD;
+}
+.project-title:hover {
+    color: #FF9447;
 }
 
 .right {

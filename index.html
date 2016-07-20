@@ -15,7 +15,7 @@ layout: default
       </div>
     </div>
     <div class="project-description">
-        <a href="{{ project.url }}"><strong>{{ project.title }}</strong></a>
+        <a class="project-title" href="{{ project.url }}"><strong>{{ project.title }}</strong></a>
         <p>{{ project.short-description }}</p>
     </div>
       <hr>
@@ -39,7 +39,7 @@ layout: default
         <div class="excerpt">
           {{ post.excerpt | | strip_html | strip_newlines | truncate: 120 }}
         </div>
-        <a href="{{ post.url }}">
+        <a class="post-read-more" href="{{ post.url }}">
           {{ site.theme.str_continue_reading }}
         </a>
       </li>
