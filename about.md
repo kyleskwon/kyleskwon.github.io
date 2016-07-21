@@ -28,7 +28,7 @@ feature-img: "img/"
 <h4 class="heading">Visual & Audio</h4>
 
 {:.center-about}
-<p>Ever since I picked up my first DSLR in 2013, I fell in love with the sound of the shutter. <a class="about-link" href="http://stillandmotion.herokuapp.com">Photography</a> and video motivate me to get outside. In post, editing to music is my favorite creative outlet. </p>
+<p>Ever since I picked up my first DSLR in 2013, I fell in love with the sound of the shutter. <a class="about-link" href="http://stillandmotion.herokuapp.com">Photography</a> and <a class="about-link" href="http://stillandmotion.herokuapp.com/motion">video</a> motivate me to get outside. In post, editing to music is my favorite creative outlet. </p>
 
 <br>
 

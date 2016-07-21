@@ -6,8 +6,8 @@ feature-img: "img/"
 ---
 <div class="resume">
     <div class="heading">
-        <h1>Kyle S. Kwon</h1>
-        <h3>Full Stack Web Developer</h3>
+        <h2>Kyle S. Kwon</h2>
+        <h4>Full Stack Web Developer</h4>
         <br>
     </div>
     <div class="left">

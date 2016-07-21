@@ -8,15 +8,6 @@
      box-sizing: border-box;
  }
 
-.about-link {
-    color: #C6E2FF;
-}
-
-.about-link:hover {
-    color: #FF9447;
-    text-decoration: none;
-}
-
 .center-about {
     width: 100%;
     text-align: center;
@@ -53,8 +44,8 @@ form {
     width: 100%;
 }
 
-h7 {
-    font-size: 6em !important;
+h1 {
+    font-size: 5.5em !important;
     font-family: 'Oswald', sans-serif !important;
 }
 
@@ -74,36 +65,12 @@ post {
     text-align: center;
 }
 
-.post-read-more {
-    color: #C6E2FF;
-}
-
-.post-read-more:hover {
-    color: #FF9447;
-}
-
-.post-link {
-    color: #C6E2FF;
-}
-
-.post-link:hover {
-    color: #FF9447;
-}
-
 .project {
     box-shadow: 5px 0px 40px rgba(0,0,0, .2);
 }
 
 .project-thumb {
     background-color: white;
-}
-
-.project-title {
-    color: #C6E2FF;
-}
-
-.project-title:hover {
-    color: #FF9447;
 }
 
 .right {

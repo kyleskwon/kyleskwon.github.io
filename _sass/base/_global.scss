@@ -102,11 +102,28 @@ a {
   color: $link-color;
   text-decoration: none;
 }
+a:hover {
+    color: $hover-color;
+}
 .nav {
   list-style: none;
   margin: 0;
   padding: 0;
 }
+.page-link:hover {
+    color: $hover-color;
+}
+.fa:hover {
+    color: $hover-color;
+}
+input, textarea {
+    background-color: $brand-color;
+}
+.site-title {
+    color: red;
+    font-size: 2em;
+}
+
 // Responsive media
 iframe, img, embed, object, video {
   max-width: 100%;

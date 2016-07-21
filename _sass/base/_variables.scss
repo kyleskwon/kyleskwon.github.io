@@ -4,7 +4,7 @@ $font-family-headings: 'PT Sans Caption', sans-serif;
 $font-size: 1.15em;
 
 // Padding
-$padding-large: 20%;
+$padding-large: 18%;
 $padding-small: 5%;
 $padding-x-small: 3%;
 
@@ -15,8 +15,9 @@ $border-color: rgba(0, 0, 0, 0.1); // rgba recommended if using feature images
 
 // Typography colours
 $text-color: #fff;
-$link-color: #FF9447;
+$link-color: #C6E2FF;
 $selection-color: #fff; // visible when highlighting text
+$hover-color: #FF9447;
 
 // Header colours
 $header-link-color: #C6E2FF;

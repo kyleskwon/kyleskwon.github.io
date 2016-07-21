@@ -5,13 +5,13 @@ url: "http://kyleskwon.github.io" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: Home # Your name will go here
+  title: Kyle S. Kwon # Your name will go here
   description: "A personal portfolio and blog by Kyle S. Kwon" # used by search engines
   avatar: /img/portrait.JPG
 
   # Header and footer text
   header_text: >
-     <h7>KYLE S. KWON</h7>
+     <h1>KYLE S. KWON</h1>
      <p>{ Javascript-er } &&  { RubyonRails-er }</p>
 #     <p>( Teacher ) && ( Photographer )</p>
   header_text_feature_image:
