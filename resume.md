@@ -31,10 +31,10 @@ feature-img: "img/"
               <p>Grunt</p>
             </div>
             <div class="center-content left heading">
-                <p>Git</p>
-                <p>Github</p>
                 <p>Heroku</p>
                 <p>Jekyll</p>
+                <p>Git/Github</p>
+                <p>Sass/LESS</p>
                 <p>Premiere</p>
             </div>
             <div class="center-content left heading">

@@ -25,7 +25,7 @@
 
 .center-image {
     text-align: center;
-    box-shadow: 5px 0px 40px rgba(0,0,0, .2);
+    box-shadow: 0px -5px 8px rgba(0,0,0, .2);
 }
 
 .education-heading {
@@ -65,12 +65,8 @@ post {
     text-align: center;
 }
 
-.project {
-    box-shadow: 5px 0px 40px rgba(0,0,0, .2);
-}
-
-.project-thumb {
-    background-color: white;
+img, .project {
+    box-shadow: 0px -5px 8px rgba(0,0,0, .2);
 }
 
 .right {
@@ -252,8 +248,6 @@ post {
         }
     }
 
-
-
     @media only screen and (min-width: 300px) and (max-width: 767px) { 
         html {
             font-size: 85%; 
@@ -262,11 +256,6 @@ post {
         article, .comments {
             padding-left: 6% !important;
             padding-right: 6% !important;
-        }
-
-        .project:hover {
-            box-shadow: 10px 5px 80px rgba(1,1,1, .4);
-            transition: box-shadow 0.5s;
         }
      }
 
@@ -285,32 +274,17 @@ post {
             padding-left: 10% !important;
             padding-right: 10% !important;
         }
-
-        .project:hover {
-            box-shadow: 10px 5px 80px rgba(1,1,1, .4);
-            transition: box-shadow 0.5s;
-        }
      }
 
     @media only screen and (min-width: 992px) and (max-width: 1199px) {
         html {
             font-size: 105%; 
         }
-
-        .project:hover {
-            box-shadow: 10px 5px 80px rgba(1,1,1, .4);
-            transition: box-shadow 0.5s;
-        }
      }
 
     @media only screen and (min-width: 1200px) {
         html { 
             font-size: 110%; 
-        }
-
-        .project:hover {
-            box-shadow: 10px 5px 80px rgba(1,1,1, .4);
-            transition: box-shadow 0.5s;
         }
     }
 

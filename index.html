@@ -8,9 +8,9 @@ layout: default
       <h2 class="post-header">My Work</h2>
     {% for project in site.portfolio limit:4 %}
     <div class="project">
-      <div class="project-thumb center-image">
+      <div class="project-thumb">
         <a href="{{ project.url }}">
-          <img src="{{ project.thumbnail-path }}" alt="{{ project.title }}"/>
+          <img src="{{ project.thumbnail-path }}" alt="{{ project.title }}" />
         </a>
       </div>
     </div>
