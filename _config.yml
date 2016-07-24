@@ -12,7 +12,7 @@ theme:
   # Header and footer text
   header_text: >
      <h1>KYLE S. KWON</h1>
-     <p>{ Javascript-er } &&  { RubyonRails-er }</p>
+     <p>( Javascript-er ) &&  ( RubyonRails-er )</p>
 #     <p>( Teacher ) && ( Photographer )</p>
   header_text_feature_image:
   footer_text: > 
