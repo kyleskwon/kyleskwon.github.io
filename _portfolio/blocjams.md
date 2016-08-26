@@ -7,7 +7,7 @@ short-description: Music streaming service (Angular)
 ---
 
 {:.center} 
-### [Auditory Angular](http://auditory-angular.herokuapp.com) is an online music streaming service.
+### [Auditory](http://auditory-angular.herokuapp.com) is an online music streaming service.
 
 {:.center-image}
 ![]({{ site.baseurl }}/img/auditory1.png)

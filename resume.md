@@ -1,7 +1,7 @@
 ---
 layout: page
-title: CV/Resume
-permalink: /cv/
+title: Resume
+permalink: /resume/
 feature-img: "img/"
 ---
 <div class="resume">
